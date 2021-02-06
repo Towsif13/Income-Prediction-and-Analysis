@@ -1,6 +1,4 @@
-# Income-Prediction-and-Analysis
-
-## Course : CSE 445 
+# Income-Prediction-and-Analysis 
 
 **Objective :**
 
